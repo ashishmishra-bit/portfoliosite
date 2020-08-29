@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg3336"
+    sodipodi:docname="cadre.svg"
+    viewBox="0 0 50 50"
+    version="1.1"
+    inkscape:version="0.47pre4 r22446"
+  >
+  <title
+      id="title3408"
+    >personnage</title
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="45"
+      pagecolor="#ffffff"
+      inkscape:window-height="639"
+      inkscape:window-maximized="0"
+      inkscape:zoom="1.4"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="79.328277"
+      inkscape:cy="71.348638"
+      inkscape:window-width="1261"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Calque 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -1002.4)"
+    >
+    <g
+        id="g3882-7"
+        transform="matrix(.50069 0 0 .50069 -116.16 1055.5)"
+      >
+      <path
+          id="path3878-67"
+          sodipodi:nodetypes="csscssc"
+          style="fill-rule:evenodd;fill:#000000"
+          d="m273.41-46.633s-7.5041-2.0124-10.972 4.3681c-3.491 6.4236 2.7429 8.7361-2.4936 15.417-4.7832 6.1023-8.9768 2.3125-8.9768 2.3125s3.491 5.6528 11.47 4.1111c7.9794-1.5417 15.46-7.1944 18.452-17.986 2.9923-10.792-6.7326-8.2222-7.4806-8.2222z"
+      />
+      <path
+          id="path3291-7"
+          sodipodi:nodetypes="cscc"
+          style="fill-rule:evenodd;fill:#000000"
+          d="m315.77-89.518s-30.962 3.6711-44.622 40.927l11.085 9.3792s28.138-19.043 33.538-50.307z"
+      />
+      <rect
+          id="rect3293-8"
+          ry="2.9843"
+          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:1.7717;fill:#ffffff"
+          transform="rotate(-48.149)"
+          height="21.032"
+          width="5.9686"
+          y="166.11"
+          x="212.82"
+      />
+      <path
+          id="path3876-5"
+          style="fill-rule:evenodd;fill:#ffffff"
+          d="m299.57-80.707s-12.79 7.9581-17.053 17.053c-4.2633 9.095 12.79-8.5266 15.916-12.221 3.1264-3.6948 3.1264-5.6844 1.1369-4.8317z"
+      />
+      <path
+          id="path3880-5"
+          sodipodi:nodetypes="csssc"
+          style="fill-rule:evenodd;fill:#ffffff"
+          d="m271.43-41.534s-6.0031-0.90142-7.1399 5.3514c-1.1369 6.2528 1.9062 9.0665-6.0031 13.324-0.52432 0.28222 5.3421-0.43182 7.2577-2.7589 5.3122-6.4535-2.3772-11.064 5.8853-15.916z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Pinceau</dc:title
+        >
+        <dc:date
+          >2010-04-04T14:26:39</dc:date
+        >
+        <dc:description
+          >pinceau pencil art paint peindre</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/37099/pinceau-by-antoine</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Antoine</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >pinceau pencil art paint peindre</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
